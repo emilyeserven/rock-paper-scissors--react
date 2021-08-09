@@ -1,3 +1,12 @@
+# Basics
+
+An experiment to get my React muscle memory back. Original code based on this experiment: https://github.com/emilyeserven/testwebsites/tree/master/js/codeacademy
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
